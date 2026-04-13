@@ -1,3 +1,6 @@
 [submodule "mbed-os"]
 	path = mbed-os
 	url = https://github.com/mbed-ce/mbed-os
+[submodule "custom_targets"]
+	path = custom_targets
+	url = https://github.com/mbed-ce-libraries-examples/custom_targets
